@@ -2,7 +2,7 @@
 
 
 # Tentukan lisensi yang valid
-VALID_LICENSE="installerpremium"
+VALID_LICENSE="aima"
 
 # Path file lisensi dan file kesalahan
 LICENSE_FILE="/var/www/pterodactyl/license.txt"
